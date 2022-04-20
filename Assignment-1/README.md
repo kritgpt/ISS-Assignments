@@ -1,4 +1,5 @@
 # ISS Assignment 1
+Link to repository: https://github.com/kritgpt/ISS-Assignments/tree/main/Assignment-1
 ## 1.sh
 Reads from `quotes.txt`, stores output in `output1.txt` and prints to terminal.
 
